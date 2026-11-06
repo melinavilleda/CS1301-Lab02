@@ -23,7 +23,7 @@ You can navigate to the different pages using the sidebar on the left.
 - **Survey Page**: Go here to input new data into our CSV file.
 - **Visuals Page**: Go here to see the data visualized in different graphs.
 
-This project is part of CS 1301's Lab 2.
+This project is part of my CS 1301's class Lab 2.
 """)
 
 # OPTIONAL: ADD AN IMAGE
