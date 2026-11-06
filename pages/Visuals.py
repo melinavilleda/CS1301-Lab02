@@ -129,3 +129,25 @@ fig3 = px.scatter(
 # Display the graph
 st.plotly_chart(fig3, use_container_width=True)
 
+st.subheader("Music Listening Statistics")
+
+if not filtered_data.empty:
+    mean_hours = filtered_data["Value"].mean()
+    median_hours = filtered_data["Value"].median()
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.metric(
+            label="Mean Listening Hours",
+            value=f"{mean_hours:.2f} hours"
+        )
+
+    with col2:
+        st.metric(
+            label="Median Listening Hours",
+            value=f"{median_hours:.2f} hours"
+        )
+else:
+    st.write("No survey responses match this selection.")
+
