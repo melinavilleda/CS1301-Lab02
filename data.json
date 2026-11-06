@@ -1,0 +1,156 @@
+
+{
+    "chart_title": "My Favorite Artists and Songs",
+    "data_points": [
+        {
+            "artist": "Dominic Fike",
+            "song": "Great Pretender",
+            "duration": 171,
+            "year": 2025
+        },
+        {
+            "artist": "Dominic Fike",
+            "song": "Bodies",
+            "duration": 124,
+            "year": 2023
+        },
+        {
+            "artist": "Dominic Fike",
+            "song": "Think Fast",
+            "duration": 223,
+            "year": 2023
+        },
+        {
+            "artist": "Dominic Fike",
+            "song": "How Much Is Weed?",
+            "duration": 125,
+            "year": 2023
+        },
+        {
+            "artist": "Dominic Fike",
+            "song": "Doggy",
+            "duration": 172,
+            "year": 2025
+        },
+        {
+            "artist": "Edgehill",
+            "song": "Attic Friends",
+            "duration": 168,
+            "year": 2023
+        },
+        {
+            "artist": "Edgehill",
+            "song": "Something (Practically)",
+            "duration": 287,
+            "year": 2024
+        },
+        {
+            "artist": "Edgehill",
+            "song": "lol",
+            "duration": 187,
+            "year": 2025
+        },
+        {
+            "artist": "Edgehill",
+            "song": "17 Hours",
+            "duration": 206,
+            "year": 2025
+        },
+        {
+            "artist": "Edgehill",
+            "song": "Tape My Mouth",
+            "duration": 252,
+            "year": 2024
+        },
+        {
+            "artist": "Sam Barber",
+            "song": "Different Kind of Pain",
+            "duration": 170,
+            "year": 2024
+        },
+        {
+            "artist": "Sam Barber",
+            "song": "Thought of You",
+            "duration": 163,
+            "year": 2024
+        },
+        {
+            "artist": "Sam Barber",
+            "song": "Burn Me",
+            "duration": 214,
+            "year": 2025
+        },
+        {
+            "artist": "Sam Barber",
+            "song": "All for You",
+            "duration": 244,
+            "year": 2026
+        },
+        {
+            "artist": "Sam Barber",
+            "song": "The More I Hope",
+            "duration": 246,
+            "year": 2026
+        },
+        {
+            "artist": "Congress the Band",
+            "song": "17",
+            "duration": 235,
+            "year": 2026
+        },
+        {
+            "artist": "Congress the Band",
+            "song": "Wasted While I'm Young",
+            "duration": 217,
+            "year": 2026
+        },
+        {
+            "artist": "Congress the Band",
+            "song": "Push",
+            "duration": 269,
+            "year": 2026
+        },
+        {
+            "artist": "Congress the Band",
+            "song": "Casanova",
+            "duration": 196,
+            "year": 2026
+        },
+        {
+            "artist": "Congress the Band",
+            "song": "Bay Street",
+            "duration": 281,
+            "year": 2026
+        },
+        {
+            "artist": "Wallows",
+            "song": "Treacherous Doctor",
+            "duration": 163,
+            "year": 2019
+        },
+        {
+            "artist": "Wallows",
+            "song": "Only Friend",
+            "duration": 181,
+            "year": 2019
+        },
+        {
+            "artist": "Wallows",
+            "song": "Just Like a Movie",
+            "duration": 247,
+            "year": 2019
+        },
+        {
+            "artist": "Wallows",
+            "song": "Your Apartment",
+            "duration": 198,
+            "year": 2024
+        },
+        {
+            "artist": "Wallows",
+            "song": "Wish Me Luck",
+            "duration": 203,
+            "year": 2020
+        }
+    ]
+}
