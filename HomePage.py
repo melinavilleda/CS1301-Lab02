@@ -7,24 +7,41 @@ import streamlit as st
 # st.set_page_config() is used to configure the page's appearance in the browser tab.
 # It's good practice to set this as the first Streamlit command in your script.
 st.set_page_config(
-    page_title="Homepage",  # The title that appears in the browser tab
-    page_icon="🏠",         # An emoji that appears as the icon in the browser tab
+    page_title="Music Dashboard",  # The title that appears in the browser tab
+    page_icon="🎵",         # An emoji that appears as the icon in the browser tab
 )
 
 # WELCOME PAGE TITLE
-st.title("Welcome to the Data Dashboard! 📊")
+st.title("Welcome to My Music Dashboard! 🎵")
 
-# INTRODUCTORY TEXT
-st.write("""
-This application is designed to collect and visualize data.
-You can navigate to the different pages using the sidebar on the left.
+# INTRODUCTION
+st.write(
+    "Explore music trends and listening habits through interactive "
+    "visualizations! This website was created for my CS 1301 Lab 2 "
+    "project. It collects and displays music-related data from "
+    "JSON and CSV files."
+)
 
-### How to use this app:
-- **Survey Page**: Go here to input new data into our CSV file.
-- **Visuals Page**: Go here to see the data visualized in different graphs.
+st.write("Use the sidebar on the left to explore the different pages.")
 
-This project is part of my CS 1301's class Lab 2.
-""")
+# HOW TO USE THE APP
+st.header("How to Use This App")
+
+st.subheader("🎤 Survey Page")
+st.write(
+    "Take a quick survey about your music preferences! "
+    "Enter your favorite music genre and how many hours you "
+    "spend listening to music each day. Your responses will "
+    "be added to our CSV dataset."
+)
+
+st.subheader("📊 Visuals Page")
+st.write(
+    "Explore four different music visualizations! Compare average "
+    "song durations across artists, explore songs by release year, "
+    "see the most popular music genres, and use an interactive "
+    "slider to explore daily music listening habits."
+)
 
 # OPTIONAL: ADD AN IMAGE
 # 1. Navigate to the 'images' folder in your Lab02 directory.
